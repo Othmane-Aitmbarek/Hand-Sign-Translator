@@ -1,12 +1,12 @@
 # Hand Sign Language Translator 
 
-Plus de 70 millions de personnes sourdes dans le monde utilisent les langues des signes pour communiquer. La langue des signes leur permet d’apprendre, de travailler, d’accéder aux services et d’être intégrées dans les communautés.
-Il est difficile de faire apprendre la langue des signes à tout le monde afin de garantir que les personnes en situation de handicap puissent jouir de leurs droits sur un pied d’égalité avec les autres.
-Ainsi, l’objectif est de développer une interface homme-machine (IHM) conviviale où l’ordinateur comprend la langue des signes américaine. Ce projet aidera les personnes sourdes et muettes en facilitant leur quotidien.
+More than 70 million deaf people around the world use sign languages to communicate. Sign language allows them to learn, work, access services and be integrated into communities.
+It is difficult to teach sign language to everyone to ensure that people with disabilities can enjoy their rights on an equal footing with others.
+Thus, the objective is to develop a user-friendly human-machine interface (HMI) where the computer understands American Sign Language. This project will help deaf and mute people by making their daily lives easier.
 
-**Objectif** : Créer un logiciel informatique et entraîner un modèle qui prend en entrée une image en temps réel d’un geste de la langue des signes américaine et affiche en sortie la traduction en texte.
+**Objective**: Create computer software and train a model that takes as input a real-time image of an American Sign Language gesture and displays the text translation as output.
 
-**Scope** : Ce système sera bénéfique à la fois pour les personnes sourdes/muettes et pour celles qui ne comprennent pas la langue des signes. Il suffit de réaliser les gestes de la langue des signes, et ce système identifiera ce que la personne essaie de dire, puis fournira la sortie sous forme de texte.
+**Scope**: This system will be beneficial for both deaf/mute people and those who do not understand sign language. Simply perform sign language gestures, and this system will identify what the person is trying to say, then provide the output in text form.
 
 ## ✨ Features
 
