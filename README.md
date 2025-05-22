@@ -1,4 +1,4 @@
-# Hand Sign Language Translator 🤟
+# Hand Sign Language Translator 
 
 Plus de 70 millions de personnes sourdes dans le monde utilisent les langues des signes pour communiquer. La langue des signes leur permet d’apprendre, de travailler, d’accéder aux services et d’être intégrées dans les communautés.
 Il est difficile de faire apprendre la langue des signes à tout le monde afin de garantir que les personnes en situation de handicap puissent jouir de leurs droits sur un pied d’égalité avec les autres.
@@ -7,8 +7,6 @@ Ainsi, l’objectif est de développer une interface homme-machine (IHM) convivi
 **Objectif** : Créer un logiciel informatique et entraîner un modèle qui prend en entrée une image en temps réel d’un geste de la langue des signes américaine et affiche en sortie la traduction en texte.
 
 **Scope** : Ce système sera bénéfique à la fois pour les personnes sourdes/muettes et pour celles qui ne comprennent pas la langue des signes. Il suffit de réaliser les gestes de la langue des signes, et ce système identifiera ce que la personne essaie de dire, puis fournira la sortie sous forme de texte.
-
-![image]((https://www.researchgate.net/publication/328396430/figure/fig1/AS:11431281391526962@1745332210693/The-26-letters-and-10-digits-of-American-Sign-Language-ASL.tif))
 
 ## ✨ Features
 
